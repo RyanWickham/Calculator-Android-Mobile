@@ -5,6 +5,7 @@
 Simple/basic calculator project. Nothing much than a simple calculator.
 
 This is the 2nd project that I have created in my attempt to learn android mobile development. This project has got me to learn about more complex layout/layout nesting. The logic code for this project isn't something that is specific to android mobile development and invole the basic calculator logic that is used for any calculator project.
+
 This project has gotton me to wonder how you would set up more dynamic components, such as how you would be making smaller components within React.js and using them within bigger components. I assume it would be a similar to how to TextView or Buttons would be working under the hood but more custom. This is something for me to learn more about later on but is not the biggest issue right now. There are more basic things for me to learn first, such as going between different pages within an application.
 
 ![image](https://user-images.githubusercontent.com/48148988/183247955-dab1cdbc-d118-45c9-a409-d1e87180cda1.png)
